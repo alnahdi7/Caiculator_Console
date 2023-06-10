@@ -1,0 +1,15 @@
+C:\Users\malnahdi\source\repos\Caiculator_Console\Caiculator_Console\bin\Debug\net6.0\Caiculator_Console.exe
+C:\Users\malnahdi\source\repos\Caiculator_Console\Caiculator_Console\bin\Debug\net6.0\Caiculator_Console.deps.json
+C:\Users\malnahdi\source\repos\Caiculator_Console\Caiculator_Console\bin\Debug\net6.0\Caiculator_Console.runtimeconfig.json
+C:\Users\malnahdi\source\repos\Caiculator_Console\Caiculator_Console\bin\Debug\net6.0\Caiculator_Console.dll
+C:\Users\malnahdi\source\repos\Caiculator_Console\Caiculator_Console\bin\Debug\net6.0\Caiculator_Console.pdb
+C:\Users\malnahdi\source\repos\Caiculator_Console\Caiculator_Console\obj\Debug\net6.0\Caiculator_Console.csproj.AssemblyReference.cache
+C:\Users\malnahdi\source\repos\Caiculator_Console\Caiculator_Console\obj\Debug\net6.0\Caiculator_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malnahdi\source\repos\Caiculator_Console\Caiculator_Console\obj\Debug\net6.0\Caiculator_Console.AssemblyInfoInputs.cache
+C:\Users\malnahdi\source\repos\Caiculator_Console\Caiculator_Console\obj\Debug\net6.0\Caiculator_Console.AssemblyInfo.cs
+C:\Users\malnahdi\source\repos\Caiculator_Console\Caiculator_Console\obj\Debug\net6.0\Caiculator_Console.csproj.CoreCompileInputs.cache
+C:\Users\malnahdi\source\repos\Caiculator_Console\Caiculator_Console\obj\Debug\net6.0\Caiculator_Console.dll
+C:\Users\malnahdi\source\repos\Caiculator_Console\Caiculator_Console\obj\Debug\net6.0\refint\Caiculator_Console.dll
+C:\Users\malnahdi\source\repos\Caiculator_Console\Caiculator_Console\obj\Debug\net6.0\Caiculator_Console.pdb
+C:\Users\malnahdi\source\repos\Caiculator_Console\Caiculator_Console\obj\Debug\net6.0\Caiculator_Console.genruntimeconfig.cache
+C:\Users\malnahdi\source\repos\Caiculator_Console\Caiculator_Console\obj\Debug\net6.0\ref\Caiculator_Console.dll
